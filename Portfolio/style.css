@@ -1,0 +1,30 @@
+p{color:blue;}
+	h2{color:darkblue;
+		font-style:italic;
+	}
+	ul li strong{
+		display:inline;
+		color:green;}
+	h1>strong{color:purple;
+	}
+	h2+a{color:green;}
+	h2[align="Center"]{border:solid; border-color:purple}
+	
+	body{
+		font-family:Berlin Sans FB !important;
+		font-family:Times;
+	}
+	
+	
+	
+	
+	
+	
+	
+	#grad1 {
+  background-image: linear-gradient(to bottom, rgba(196, 242, 12, 1) 20%, rgba(255,255, 255, 1) 100%);
+	}
+	
+	#grad2 {
+  background-image: linear-gradient(to bottom, rgba(196, 242, 12, 1) 75%, rgba(255,255, 255, 1) 100%);
+	}
